@@ -8,6 +8,9 @@ It is sad to see people defaulting to the troll assumption when being challenged
 Rust isn't gonna save modern software enginering, on the contrary it is an entangled mess of unnecessary complexity. "But you don't understand Rust / Have you ever written Rust?"  
 \- I spent over a year disecting the Rust compiler and wrttien several utilities in Rust to try out the language  
 
+This is ample time to conclude the design and implementation of Rust is a language with an identity crisis and design flaws which cannot be correctwed without major breaking changes.
+It goes against the very principles Niklaus Wirth has taught about language design - Ruthless simplicity and make it simple, but not simpler.
+
 The conclusion is, it isn't contributing anything significant and doesn't offer anything beneficial over other programming languages. As a matter of fact, languages like Modern Object Pascal or ADA is much more beneficial to use, given it's solid language design without compromising its ease of use and quick to learn.
 
 ---
