@@ -5,10 +5,15 @@ If you landed here because I challenged your "Rewrite in Rust, when?" or "Use Ru
 
 It is sad to see people defaulting to the troll assumption when being challenged - Wake up!  
 
-Rust is not gonna save modern software enginering, on the contracty it is an entangled mess of unnecessary complexity. "But you don't understand Rust / Have you ever written Rust?"  
+Rust isn't gonna save modern software enginering, on the contrary it is an entangled mess of unnecessary complexity. "But you don't understand Rust / Have you ever written Rust?"  
 \- I spent over a year disecting the Rust compiler and wrttien several utilities in Rust to try out the language  
 
 The conclusion is, it isn't contributing anything significant and doesn't offer anything beneficial over other programming languages. As a matter of fact, languages like Modern Object Pascal or ADA is much more beneficial to use, given it's solid language design without compromising its ease of use and quick to learn.
+
+---
+
+This a collection of stuff I work on - mainly Modern Object Pascal related - when time permits - maybe you find something useful?
+
 <!--
 **code-kungfu/code-kungfu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
